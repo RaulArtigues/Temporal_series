@@ -1,6 +1,8 @@
 # Temporal_series
 Analysis of a time series through the use of statistical techniques - ARIMA
 
+Rating given by professors from the University of Navarra: 10/10.
+
 En el presente proyecto, se va a abordar un análisis de series temporales univariante que tiene como objetivo:<br>
 Determinar si es una serie es estacionaria o no, utilizando diferentes procedimientos. En este punto es necesario realizar análisis gráficos y diferentes test. <br>
 Determinar si es una serie es estacional y en su caso cual es la frecuencia con la que se da la estacionalidad. <br>
